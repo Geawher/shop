@@ -13,6 +13,5 @@ $lignes = $base->exec($requette);
 if  ($lignes == 1)
 header ('location:./home.php');
 else 
-echo 'lé'
-
+header ('location:./viewaddProduct.php')
 ?>

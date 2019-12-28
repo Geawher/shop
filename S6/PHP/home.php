@@ -22,7 +22,7 @@
  <div class="row">
 
  <div class="col">
-     <a href="./../HTML/addcategory.html" class="btn btn-info my-3 "> ADD Category</a>
+     <a href="./../HTML/addcategory.php" class="btn btn-info my-3 "> ADD Category</a>
  </div>
  </div>
  <div class="row">
@@ -51,7 +51,7 @@
  </div>
  </div> 
 
-
+ <a href="./viewaddproduct.php" class="btn btn-info my-3"> Add product</a>
  <div class="row">
 
 <div class="col">

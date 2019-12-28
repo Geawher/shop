@@ -14,7 +14,7 @@ $requette = "INSERT INTO users VALUES (null,'$email','$password','$name','$preno
 
 $lignes = $base->exec($requette);
 if  ($lignes == 1)
-header ('location:./home.php');
+header ('location:./site.php');
 else 
 header ('location:./../HTML/inscription.html');
 

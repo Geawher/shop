@@ -46,3 +46,8 @@
   .separator {
     margin: 3rem 0;
   }
+ .log {
+    background-image: url(./../assests/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

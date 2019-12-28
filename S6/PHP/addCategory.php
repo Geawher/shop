@@ -11,6 +11,6 @@ $lignes = $base->exec($requette);
 if  ($lignes == 1)
 header ('location:./home.php');
 else 
-header ('location:./../HTML/addcategory.html');
+header ('location:./../HTML/addcategory.php?added=false');
 
 ?>
